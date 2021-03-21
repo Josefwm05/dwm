@@ -1,0 +1,5 @@
+# List of patches and where I got them from
+
+dwm-extrabar-6.2-20210209.diff	http://dwm.suckless.org/patches/extrabar/
+dwm-fibonacci-20200418-c82db69.diff	http://dwm.suckless.org/patches/fibonacci/
+dwm-hide_vacant_tags-6.2.diff	http://dwm.suckless.org/patches/hide_vacant_tags/
