@@ -1,14 +1,14 @@
 # List of patches and where I got them from
 
-dwm-activetagindicatorbar-6.2.diff	http://dwm.suckless.org/patches/activetagindicatorbar/
-dwm-alpha-20201019-61bb8b2.diff		http://dwm.suckless.org/patches/alpha/
-dwm-alternativetags-6.2.diff		http://dwm.suckless.org/patches/alternativetags/
-dwm-awesomebar-20200907-6.2.diff	http://dwm.suckless.org/patches/awesomebar/
-dwm-barpadding-20200720-bb2e722.diff	http://dwm.suckless.org/patches/barpadding/
-dwm-bottomstack-6.1.diff		https://dwm.suckless.org/patches/bottomstack/
-dwm-centeredmaster-6.1.diff		https://dwm.suckless.org/patches/centeredmaster/
-dwm-emptyview-6.2.diff			https://dwm.suckless.org/patches/emptyview/
-dwm-extrabar-6.2-20210209.diff		http://dwm.suckless.org/patches/extrabar/
-dwm-fibonacci-20200418-c82db69.diff	http://dwm.suckless.org/patches/fibonacci/
-dwm-gridmode-20170909-ceac8c9.diff	http://dwm.suckless.org/patches/gridmode/
-dwm-hide_vacant_tags-6.2.diff		http://dwm.suckless.org/patches/hide_vacant_tags/
+dwm-activetagindicatorbar-6.2.diff    https://dwm.suckless.org/patches/activetagindicatorbar/
+dwm-alpha-20201019-61bb8b2.diff       https://dwm.suckless.org/patches/alpha/
+dwm-alternativetags-6.2.diff          https://dwm.suckless.org/patches/alternativetags/
+dwm-awesomebar-20200907-6.2.diff      https://dwm.suckless.org/patches/awesomebar/
+dwm-barpadding-20200720-bb2e722.diff  https://dwm.suckless.org/patches/barpadding/
+dwm-bottomstack-6.1.diff              https://dwm.suckless.org/patches/bottomstack/
+dwm-centeredmaster-6.1.diff           https://dwm.suckless.org/patches/centeredmaster/
+dwm-emptyview-6.2.diff                https://dwm.suckless.org/patches/emptyview/
+dwm-extrabar-6.2-20210209.diff        https://dwm.suckless.org/patches/extrabar/
+dwm-fibonacci-20200418-c82db69.diff   https://dwm.suckless.org/patches/fibonacci/
+dwm-gridmode-20170909-ceac8c9.diff    https://dwm.suckless.org/patches/gridmode/
+dwm-hide_vacant_tags-6.2.diff         https://dwm.suckless.org/patches/hide_vacant_tags/
