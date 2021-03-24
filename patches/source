@@ -1,6 +1,7 @@
 # List of patches and where I got them from
 
 dwm-alpha-20201019-61bb8b2.diff					https://dwm.suckless.org/patches/alpha/
+dwm-alpha-systray-6.2.diff					https://github.com/bakkeby/patches/blob/master/dwm/dwm-alpha-systray-6.2.diff
 dwm-alternativetags-6.2.diff					https://dwm.suckless.org/patches/alternativetags/
 dwm-awesomebar-20200907-6.2.diff				https://dwm.suckless.org/patches/awesomebar/
 dwm-bar-height-6.2.diff						https://dwm.suckless.org/patches/bar_height/
